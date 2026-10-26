@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "QuickFocus Pro - Pomodoro & Tasks",
+  "version": "2.0",
+  "description": "Boost daily productivity with a smart Pomodoro timer, task manager, and progress tracker.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
